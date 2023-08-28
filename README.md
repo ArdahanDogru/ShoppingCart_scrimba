@@ -1,11 +1,4 @@
-# co097427c919a8af765b6a9ed
-
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
+# Simple Shopping List Application
 
 Simple web/mobile app using Firebase
 Add/delete items in shopping list which are connected to the database
